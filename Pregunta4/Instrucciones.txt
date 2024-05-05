@@ -1,0 +1,3 @@
+Para el uso de JAVA tiene que tener como servidor a toncat configurado en el puerto 8084
+Para el uso de NET no me dejo subir el proyecto entero asi que le pase los archivo que tienen la informacion necesaria
+En el archivo de PHP vea que esten bien configurados el puerto y nombre de archivo que llamara
